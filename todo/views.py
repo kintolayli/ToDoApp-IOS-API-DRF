@@ -8,6 +8,10 @@ from .permissions import Author
 
 
 class TodoViewSet(viewsets.ModelViewSet):
+    """
+    Предоставляет API для модели Todo, которая позволяет 
+    создавать, изменять и удалять записи. 
+    """
     queryset = Todo.objects.all()
     serializer_class = TodoSerializer
     permission_classes = (Author, )
