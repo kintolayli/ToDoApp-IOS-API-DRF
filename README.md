@@ -1,5 +1,12 @@
-# ToDoApp-IOS-API-DRF
-API для приложения ToDoApp-IOS.
+# ToDoList-IOS-API
+Backend для приложения ToDoApp-IOS.
+
+# Технологии:
+* Python 3.11
+* Django 3.2.3
+* DRF(Django Rest Framevork) 3.12.4
+* SQLite3
+* Djoser 
 
 # Features:
 * регистрация пользователей
