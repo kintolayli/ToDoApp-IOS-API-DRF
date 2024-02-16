@@ -1,5 +1,5 @@
 # ToDoList-IOS-API
-Backend для приложения ToDoApp-IOS.
+Backend для приложения ToDoList-IOS
 
 # Технологии:
 * Python 3.11
